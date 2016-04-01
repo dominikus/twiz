@@ -121,7 +121,7 @@ export default class App extends React.Component {
 								<img className="tweeter" src={d.user.profile_image_url} />
 								<div className="right-column">
 									<p>@{d.user.screen_name} {d.created_at}</p>
-									<h1>{d.text}</h1>
+									<p className="tweet">{d.text}</p>
 								</div>
 							</div>
 						);
