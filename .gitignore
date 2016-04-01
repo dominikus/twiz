@@ -1,0 +1,10 @@
+*sass-cache
+node_modules/*
+build/*
+*.sublime-project
+*.sublime-workspace
+js/build/*
+css/build/*
+bower_components/
+.ftppass
+npm-debug.log
