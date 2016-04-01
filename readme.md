@@ -5,7 +5,9 @@ http://local.twiz.com:8080/
 
 Change your hosts file (OSX: /etc/hosts)
 to point to localhost for that url:
+```
 127.0.0.1 http://local.twiz.com
+```
 
 # Usage
 Run
